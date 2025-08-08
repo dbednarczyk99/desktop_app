@@ -1,0 +1,11 @@
+{
+  "name": "desktop_app",
+  "version": "1.0.0",
+  "description": "First desktop app using electron",
+  "main": "index.js",
+  "author": "DB",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "5.0.6"
+  }
+}
